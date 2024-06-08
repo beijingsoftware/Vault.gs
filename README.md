@@ -1,5 +1,8 @@
 # Vault.gs Spreadsheet Database API
 
+![Vault.gs Logo](https://drive.google.com/thumbnail?id=1ACTE7OEvz_DxlbMF7elYopyQWMuO7NH0)
+
+
 ## Introduction
 
 Vault.gs is a lightweight Spreadsheet Database API built using Google Apps Script. It enables CRUD (Create, Read, Update, Delete) operations for managing tables, columns, and entries in a Google Sheets document.
