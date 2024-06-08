@@ -41,8 +41,6 @@ To use Vault.gs, follow these steps:
 3. Deploy the script as a web app.
 4. Make requests to the endpoints defined in the script to perform CRUD operations on your spreadsheet data.
 
-Or, you can use the Vault.gs Web UI at 
-
 ## Examples
 
 Here are a few examples of how to use Vault.gs:
