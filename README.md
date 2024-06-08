@@ -1,7 +1,7 @@
-# Vault.gs Spreadsheet Database API
-
 <img src="https://drive.google.com/thumbnail?id=1ACTE7OEvz_DxlbMF7elYopyQWMuO7NH0" alt="Vault.gs Logo" width="250">
 
+
+# Vault.gs Spreadsheet Database API
 
 ## Introduction
 
