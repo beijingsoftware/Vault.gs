@@ -76,4 +76,4 @@ Here are a few examples of how to use Vault.gs:
   }
   ```
 
-For detailed usage instructions, refer to the documentation in the `Vault.gs` script.
+For detailed usage instructions, refer to the documentation.
