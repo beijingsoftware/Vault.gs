@@ -1087,6 +1087,11 @@ const VaultGS = (function () {
     }
 })()
 
-async function EVALUATE(data) {
-    return await VaultGS.evaluate(data)
+function EVALUATE(data) {
+    return VaultGS.evaluate(data)
+}
+
+
+function doPost(e) {
+    return VaultGS.doPost(e)
 }
