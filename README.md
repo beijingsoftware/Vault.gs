@@ -1,6 +1,6 @@
 # Vault.gs Spreadsheet Database API
 
-![Vault.gs Logo](https://drive.google.com/thumbnail?id=1ACTE7OEvz_DxlbMF7elYopyQWMuO7NH0)
+<img src="https://drive.google.com/thumbnail?id=1ACTE7OEvz_DxlbMF7elYopyQWMuO7NH0" alt="Vault.gs Logo" width="400">
 
 
 ## Introduction
