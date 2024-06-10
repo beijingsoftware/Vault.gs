@@ -50,7 +50,7 @@ You can access the Vault.gs web interface at the url: https://sites.google.com/v
 Here are a few examples of how to use Vault.gs:
 
 - **Create Table**:
-  ```
+  ```javascript
   {
       key: ************,
       action: create,
@@ -60,7 +60,7 @@ Here are a few examples of how to use Vault.gs:
   ```
 
 - **Create Column**:
-  ```
+  ```javascript
   {
       key: ************,
       action: create,
@@ -73,7 +73,7 @@ Here are a few examples of how to use Vault.gs:
   ```
 
 - **Create Entry**:
-  ```
+  ```javascript
   {
       key: ************,
       action: create,
